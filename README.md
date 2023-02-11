@@ -1,2 +1,2 @@
-# free-code-camp-survey-form
+# survey-form
 Responsive Web Design Certification Project - Build a Survey Form
